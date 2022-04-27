@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-15T23:13:36 IST" name="SuiteHomePage" finished-at="2022-04-15T23:15:43 IST" duration-ms="126722">
+    <groups>
+    </groups>
+    <test started-at="2022-04-15T23:13:36 IST" name="TestHomePage" finished-at="2022-04-15T23:15:43 IST" duration-ms="126722">
+      <class name="com.qa.testLayer.HomePageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.qa.testLayer.HomePageTest@52e6fdee]" started-at="2022-04-15T23:13:36 IST" name="setUp" finished-at="2022-04-15T23:15:12 IST" duration-ms="95727" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchProductTest()[pri:0, instance:com.qa.testLayer.HomePageTest@52e6fdee]" started-at="2022-04-15T23:15:12 IST" name="searchProductTest" finished-at="2022-04-15T23:15:41 IST" duration-ms="29403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.HomePageTest@52e6fdee]" started-at="2022-04-15T23:15:41 IST" name="tearDown" finished-at="2022-04-15T23:15:43 IST" duration-ms="1445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testLayer.HomePageTest -->
+    </test> <!-- TestHomePage -->
+  </suite> <!-- SuiteHomePage -->
+</testng-results>
